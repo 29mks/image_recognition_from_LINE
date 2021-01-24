@@ -1,7 +1,7 @@
 //各種キー
-var access_token = "qRgorPgVBFJt79ZUOt0huDYEb/Ll2m8n3oZs2jtCx1pBqJDmPUR0uuaOsa/B8H2HHZDmRYAL/VdLZFvtp6K/iod81vF6GjrRdudqR8ctTJ1gIIGN6r4Aj9QG+ERFFNwZD8md3nmHs2pFLtEDR5uOXwdB04t89/1O/w1cDnyilFU="
-var google_drive_id = "1kDRWBO4SfTuR4DVOpZGCaMA0-R5RPcwR";
-var cloud_vision_api_key = "AIzaSyBddzukpNyQXQNxPp2BUXSOLkjuOCLcZGs";
+var access_token = ""
+var google_drive_id = "";
+var cloud_vision_api_key = "";
 
 
 // doPost()は、Messaging apiからwebhookでpostされた時に実行される関数

@@ -10,7 +10,7 @@ Google Colab will be better to work.
 ## Requirement
 
 * Google colab
-** Google cloud vision api key
+ * Google cloud vision api key
 * LINE
 * LINE API key for developers
  

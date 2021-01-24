@@ -1,20 +1,20 @@
-*** Image Recognition with LINE ***
+#Image Recognition with LINE
 
 "image_recognition_from_LINE" is a recognition model with Python.
 You can convert images to text data and URL links.
   
-** Features **
+#Features
  
 Google Colab will be better to work.
 
-** Requirement **
- 
+#Requirement
+
 * Google colab
 * Google cloud vision api key
 * LINE
 * LINE API key for developers
  
-** Installation **
+#Installation
  
 No need for installation but you need to download API key from LINE and Google cloud vision.
  
